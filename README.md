@@ -1,2 +1,0 @@
-# mardin
-try
